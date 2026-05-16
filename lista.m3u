@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Espaco",NASA TV
+https://ntv1.nasa.gov/hls/live/2004073/NASA-NTV1/master.m3u8
+
+#EXTINF:-1 group-title="Demo",Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Noticias",Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
