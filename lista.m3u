@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="PremiereFC1.br@SD",Premiere FC 1
-https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
